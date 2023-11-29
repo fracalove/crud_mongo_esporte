@@ -28,6 +28,6 @@ python principal.py
 ## Vídeo demonstrativo do sistema
 
 ```shell
-https://youtu.be/9H55zR5bhzk
+https://www.youtube.com/watch?v=9H55zR5bhzk
 ```
 
